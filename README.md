@@ -53,7 +53,7 @@ The trained model is deployed using a Flask web application that allows users to
 
 
 ### 📈 Prediction Output
-!<img width="1919" height="873" alt="Screenshot 2026-02-14 183615" src="https://github.com/user-attachments/assets/bd7f2391-51e7-4c22-b8ed-5b02df4099b1" />
+<img width="1919" height="873" alt="Screenshot 2026-02-14 183615" src="https://github.com/user-attachments/assets/bd7f2391-51e7-4c22-b8ed-5b02df4099b1" />
 
 
 
