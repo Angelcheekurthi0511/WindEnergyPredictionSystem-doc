@@ -43,19 +43,19 @@ The trained model is deployed using a Flask web application that allows users to
 ## 🌐 Web Application Screenshots
 
 ### 🏠 Home Page
-![Home Page](<img width="1914" height="957" alt="Screenshot 2026-02-14 183514" src="https://github.com/user-attachments/assets/55aad31e-9f04-4be5-83c6-33981339ce8c" />
+<img width="1914" height="957" alt="Screenshot 2026-02-14 183514" src="https://github.com/user-attachments/assets/55aad31e-9f04-4be5-83c6-33981339ce8c" />
 
-)
+
 
 ### 📥 Prediction Page
-![Prediction Page](<img width="1919" height="877" alt="Screenshot 2026-02-14 183544" src="https://github.com/user-attachments/assets/3d362c11-0efb-437c-81ef-a8c5713b3890" />
+<img width="1919" height="877" alt="Screenshot 2026-02-14 183544" src="https://github.com/user-attachments/assets/3d362c11-0efb-437c-81ef-a8c5713b3890" />
 
-)
+
 
 ### 📈 Prediction Output
-![Prediction Output](<img width="1919" height="873" alt="Screenshot 2026-02-14 183615" src="https://github.com/user-attachments/assets/bd7f2391-51e7-4c22-b8ed-5b02df4099b1" />
+!<img width="1919" height="873" alt="Screenshot 2026-02-14 183615" src="https://github.com/user-attachments/assets/bd7f2391-51e7-4c22-b8ed-5b02df4099b1" />
 
-)
+
 
 
 ---
